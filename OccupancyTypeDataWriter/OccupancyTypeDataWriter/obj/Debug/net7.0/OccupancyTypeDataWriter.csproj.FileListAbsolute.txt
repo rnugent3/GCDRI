@@ -1,0 +1,15 @@
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\bin\Debug\net7.0\OccupancyTypeDataWriter.exe
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\bin\Debug\net7.0\OccupancyTypeDataWriter.deps.json
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\bin\Debug\net7.0\OccupancyTypeDataWriter.runtimeconfig.json
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\bin\Debug\net7.0\OccupancyTypeDataWriter.dll
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\bin\Debug\net7.0\OccupancyTypeDataWriter.pdb
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.csproj.AssemblyReference.cache
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.AssemblyInfoInputs.cache
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.AssemblyInfo.cs
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.csproj.CoreCompileInputs.cache
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.dll
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\refint\OccupancyTypeDataWriter.dll
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.pdb
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\OccupancyTypeDataWriter.genruntimeconfig.cache
+C:\Code\OccupancyTypeDataWriter\OccupancyTypeDataWriter\OccupancyTypeDataWriter\obj\Debug\net7.0\ref\OccupancyTypeDataWriter.dll
